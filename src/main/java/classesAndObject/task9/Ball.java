@@ -1,5 +1,8 @@
 package classesAndObject.task9;
 
+/**
+ * @author e.ivanov {@link 'https://github.com/EugeneOwl'}
+ */
 public class Ball {
     private final double weight;
     private final Color color;

@@ -6,6 +6,9 @@ import java.util.stream.Collectors;
 import java.util.stream.DoubleStream;
 import java.util.stream.Stream;
 
+/**
+ * @author e.ivanov {@link 'https://github.com/EugeneOwl'}
+ */
 public class Task3 {
     public TreeMap<Double, Double> calculateFunction(
             final float a,

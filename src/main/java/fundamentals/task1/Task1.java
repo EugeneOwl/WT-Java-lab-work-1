@@ -1,5 +1,8 @@
 package fundamentals.task1;
 
+/**
+ * @author e.ivanov {@link 'https://github.com/EugeneOwl'}
+ */
 public class Task1 {
 
     public double calculateFunction(final double x, final double y) {

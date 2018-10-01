@@ -1,5 +1,8 @@
 package classesAndObject.task15;
 
+/**
+ * @author e.ivanov {@link 'https://github.com/EugeneOwl'}
+ */
 public class Book implements Comparable {
     private String title;
     private String author;

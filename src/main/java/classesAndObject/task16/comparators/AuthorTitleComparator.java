@@ -4,7 +4,10 @@ import classesAndObject.task16.Book;
 
 import java.util.Comparator;
 
-public class AuthorTitileComparator implements Comparator<Book> {
+/**
+ * @author e.ivanov {@link 'https://github.com/EugeneOwl'}
+ */
+public class AuthorTitleComparator implements Comparator<Book> {
     @Override
     public int compare(final Book book1, final Book book2) {
         final int authorDifference = book1.getAuthor().compareTo(book2.getAuthor());

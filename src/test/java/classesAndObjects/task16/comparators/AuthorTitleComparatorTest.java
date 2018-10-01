@@ -1,7 +1,7 @@
 package classesAndObjects.task16.comparators;
 
 import classesAndObject.task16.Book;
-import classesAndObject.task16.comparators.AuthorTitileComparator;
+import classesAndObject.task16.comparators.AuthorTitleComparator;
 import org.junit.Test;
 
 import java.util.Comparator;
@@ -12,7 +12,7 @@ import java.util.stream.Stream;
 import static junit.framework.TestCase.assertEquals;
 
 public class AuthorTitleComparatorTest {
-    private final AuthorTitileComparator comparator = new AuthorTitileComparator();
+    private final AuthorTitleComparator comparator = new AuthorTitleComparator();
 
     @Test
     public void compareTest() {

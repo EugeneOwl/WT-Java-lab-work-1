@@ -3,6 +3,9 @@ package classesAndObject.task9;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author e.ivanov {@link 'https://github.com/EugeneOwl'}
+ */
 public class Basket {
     private final List<Ball> balls = new ArrayList<>();
 

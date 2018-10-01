@@ -1,5 +1,8 @@
 package classesAndObject.task14;
 
+/**
+ * @author e.ivanov {@link 'https://github.com/EugeneOwl'}
+ */
 public class Book {
     private String title;
     private String author;

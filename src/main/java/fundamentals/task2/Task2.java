@@ -2,6 +2,9 @@ package fundamentals.task2;
 
 import java.awt.*;
 
+/**
+ * @author e.ivanov {@link 'https://github.com/EugeneOwl'}
+ */
 public class Task2 {
     /*
     2 | 1

@@ -2,6 +2,9 @@ package fundamentals.task4;
 
 import java.util.Arrays;
 
+/**
+ * @author e.ivanov {@link 'https://github.com/EugeneOwl'}
+ */
 public class Task4 {
 
     private boolean isNatural(final int n) {

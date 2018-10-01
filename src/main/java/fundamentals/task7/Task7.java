@@ -1,5 +1,8 @@
 package fundamentals.task7;
 
+/**
+ * @author e.ivanov {@link 'https://github.com/EugeneOwl'}
+ */
 public class Task7 {
     public void shellSort(final double... arr) {
         int limit = 0;

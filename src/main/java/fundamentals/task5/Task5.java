@@ -2,6 +2,9 @@ package fundamentals.task5;
 
 import java.util.Arrays;
 
+/**
+ * @author e.ivanov {@link 'https://github.com/EugeneOwl'}
+ */
 public class Task5 {
 
     /**

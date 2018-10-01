@@ -2,6 +2,9 @@ package fundamentals.task8;
 
 import java.util.Arrays;
 
+/**
+ * @author e.ivanov {@link 'https://github.com/EugeneOwl'}
+ */
 public class Task8 {
     public int[] findInsertIndexes(
             final double[] sequenceA,

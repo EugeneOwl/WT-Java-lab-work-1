@@ -1,5 +1,8 @@
 package fundamentals.task6;
 
+/**
+ * @author e.ivanov {@link 'https://github.com/EugeneOwl'}
+ */
 public class Task6 {
     public double[][] getSquareMatrix(final double... sequence) {
         final double[][] matrix = new double[sequence.length][sequence.length];

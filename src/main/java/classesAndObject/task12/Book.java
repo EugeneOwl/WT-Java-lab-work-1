@@ -3,6 +3,9 @@ package classesAndObject.task12;
 import java.text.MessageFormat;
 import java.util.Objects;
 
+/**
+ * @author e.ivanov {@link 'https://github.com/EugeneOwl'}
+ */
 public class Book {
     private String title;
     private String author;

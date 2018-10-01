@@ -4,6 +4,9 @@ import classesAndObject.task12.Book;
 
 import java.text.MessageFormat;
 
+/**
+ * @author e.ivanov {@link 'https://github.com/EugeneOwl'}
+ */
 public class ProgrammerBook extends Book {
     private String language;
     private int level;

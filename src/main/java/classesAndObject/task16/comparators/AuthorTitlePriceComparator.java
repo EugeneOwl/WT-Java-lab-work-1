@@ -4,6 +4,9 @@ import classesAndObject.task16.Book;
 
 import java.util.Comparator;
 
+/**
+ * @author e.ivanov {@link 'https://github.com/EugeneOwl'}
+ */
 public class AuthorTitlePriceComparator implements Comparator<Book> {
     @Override
     public int compare(final Book book1, final Book book2) {
